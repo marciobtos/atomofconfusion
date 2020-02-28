@@ -1,5 +1,4 @@
-<html>
-<script>
+
 var online = true;
 
 function getData() {
@@ -9,5 +8,3 @@ function getData() {
 
 online && getData();
 
-</script>
-</html>
